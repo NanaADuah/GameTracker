@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/04/22 11:54:55.384.pas,C:\Users\Nana\Documents\RAD Studio\Projects\Unit21.pas=C:\Users\Nana\Documents\School H.S.S\I.T\Nana Agyemang-Duah\Phase 3\Application\frmAbout.pas</Transaction>
+    <Transaction>2018/04/22 11:54:55.384.dfm,C:\Users\Nana\Documents\RAD Studio\Projects\Unit21.dfm=C:\Users\Nana\Documents\School H.S.S\I.T\Nana Agyemang-Duah\Phase 3\Application\frmAbout.dfm</Transaction>
+    <Transaction>2018/04/22 11:55:07.114.dproj,C:\Users\Nana\Documents\RAD Studio\Projects\Project23.dproj=C:\Users\Nana\Documents\School H.S.S\I.T\Nana Agyemang-Duah\Phase 3\Application\GameScoreTracker.dproj</Transaction>
+    <Transaction>2018/04/22 12:03:49.429.pas,C:\Users\Nana\Documents\School H.S.S\I.T\Nana Agyemang-Duah\Phase 3\Application\Unit1.pas=C:\Users\Nana\Documents\School H.S.S\I.T\Nana Agyemang-Duah\Phase 3\Application\INT.pas</Transaction>
+    <Transaction>2018/04/22 12:09:24.228.pas,C:\Users\Nana\Documents\School H.S.S\I.T\Nana Agyemang-Duah\Phase 3\Application\Unit1.pas=C:\Users\Nana\Documents\School H.S.S\I.T\Nana Agyemang-Duah\Phase 3\Application\Game_DataModule.pas</Transaction>
+    <Transaction>2018/04/22 12:09:24.228.dfm,C:\Users\Nana\Documents\School H.S.S\I.T\Nana Agyemang-Duah\Phase 3\Application\Unit1.dfm=C:\Users\Nana\Documents\School H.S.S\I.T\Nana Agyemang-Duah\Phase 3\Application\Game_DataModule.dfm</Transaction>
+    <Transaction>2018/04/22 13:45:57.545.pas,C:\Users\Nana\Documents\School H.S.S\I.T\Nana Agyemang-Duah\Phase 3\Application\Unit1.pas=C:\Users\Nana\Documents\School H.S.S\I.T\Nana Agyemang-Duah\Phase 3\Application\Sign_Up.pas</Transaction>
+    <Transaction>2018/04/22 13:45:57.545.dfm,C:\Users\Nana\Documents\School H.S.S\I.T\Nana Agyemang-Duah\Phase 3\Application\Unit1.dfm=C:\Users\Nana\Documents\School H.S.S\I.T\Nana Agyemang-Duah\Phase 3\Application\Sign_Up.dfm</Transaction>
+    <Transaction>2018/04/22 13:46:22.622.pas,C:\Users\Nana\Documents\School H.S.S\I.T\Nana Agyemang-Duah\Phase 3\Application\Sign_Up.pas=C:\Users\Nana\Documents\School H.S.S\I.T\Nana Agyemang-Duah\Phase 3\Application\frmSign_Up.pas</Transaction>
+    <Transaction>2018/04/22 13:46:22.622.dfm,C:\Users\Nana\Documents\School H.S.S\I.T\Nana Agyemang-Duah\Phase 3\Application\Sign_Up.dfm=C:\Users\Nana\Documents\School H.S.S\I.T\Nana Agyemang-Duah\Phase 3\Application\frmSign_Up.dfm</Transaction>
+    <Transaction>2018/04/22 13:46:34.158.pas,C:\Users\Nana\Documents\School H.S.S\I.T\Nana Agyemang-Duah\Phase 3\Application\Unit1.pas=C:\Users\Nana\Documents\School H.S.S\I.T\Nana Agyemang-Duah\Phase 3\Application\frmLogin.pas</Transaction>
+    <Transaction>2018/04/22 13:46:34.158.dfm,C:\Users\Nana\Documents\School H.S.S\I.T\Nana Agyemang-Duah\Phase 3\Application\Unit1.dfm=C:\Users\Nana\Documents\School H.S.S\I.T\Nana Agyemang-Duah\Phase 3\Application\frmLogin.dfm</Transaction>
+    <Transaction>2018/04/22 20:53:53.249.pas,C:\Users\Nana\Documents\School H.S.S\I.T\Nana Agyemang-Duah\Phase 3\Application\Unit2.pas=C:\Users\Nana\Documents\School H.S.S\I.T\Nana Agyemang-Duah\Phase 3\Application\frmMainForm.pas</Transaction>
+    <Transaction>2018/04/22 20:53:53.249.dfm,C:\Users\Nana\Documents\School H.S.S\I.T\Nana Agyemang-Duah\Phase 3\Application\Unit2.dfm=C:\Users\Nana\Documents\School H.S.S\I.T\Nana Agyemang-Duah\Phase 3\Application\frmMainForm.dfm</Transaction>
+    <Transaction>2018/04/22 21:51:09.513.pas,C:\Users\Nana\Documents\School H.S.S\I.T\Nana Agyemang-Duah\Phase 3\Application\frmAbout.pas=C:\Users\Nana\Documents\School H.S.S\I.T\Nana Agyemang-Duah\Phase 3\Application\frmBegin.pas</Transaction>
+    <Transaction>2018/04/22 21:51:09.513.dfm,C:\Users\Nana\Documents\School H.S.S\I.T\Nana Agyemang-Duah\Phase 3\Application\frmAbout.dfm=C:\Users\Nana\Documents\School H.S.S\I.T\Nana Agyemang-Duah\Phase 3\Application\frmBegin.dfm</Transaction>
+    <Transaction>2018/04/22 22:31:57.815.pas,C:\Users\Nana\Documents\School H.S.S\I.T\Nana Agyemang-Duah\Phase 3\Application\Unit2.pas=</Transaction>
+    <Transaction>2018/04/22 22:31:57.815.dfm,C:\Users\Nana\Documents\School H.S.S\I.T\Nana Agyemang-Duah\Phase 3\Application\Unit2.dfm=</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="INT.pas"/>
+    <File Path="frmBegin.pas"/>
+    <File Path="frmBegin.dfm"/>
+    <File Path="frmLogin.pas"/>
+    <File Path="frmLogin.dfm"/>
+    <File Path="frmMainForm.pas"/>
+    <File Path="frmMainForm.dfm"/>
+    <File Path="frmSign_Up.pas"/>
+    <File Path="frmSign_Up.dfm"/>
+    <File Path="Game_DataModule.pas"/>
+    <File Path="Game_DataModule.dfm"/>
+    <File Path="Unit1.pas"/>
+    <File Path="Unit1.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
